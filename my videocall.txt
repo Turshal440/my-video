@@ -5,7 +5,7 @@
 <head>
   <title>Video Call</title>
   <script src="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5051988520538995"
-     crossorigin="anonymous"></script>></script>
+     crossorigin="anonymous"></script>google.com, pub-5051988520538995, DIRECT, f08c47fec0942fa0
   <style>
     body {
       background: #0f172a;
@@ -102,3 +102,4 @@
 </html>
 
 /socket.io/socket.io.js
+
